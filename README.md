@@ -61,7 +61,7 @@ Insira uma expressão matemática
 git clone https://github.com/EduardoVieira778/CalculadoraCientifica.git
 
 # Acesse a pasta do projeto
-cd calculadora-cientifica
+cd CalculadoraCientifica
 
 # Execute
 dotnet run
